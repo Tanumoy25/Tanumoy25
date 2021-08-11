@@ -1,4 +1,6 @@
-### Hi there!👋 I am Tanumoy 
+### Hi there!👋 I'm Tanumoy 
+
+![](https://komarev.com/ghpvc/?username=Tanumoy25
 
 I am a Big Data Engineer, Certified SnowPro Core and Cloudera Spark Developer,
 and a Content Writer
