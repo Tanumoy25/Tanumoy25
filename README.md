@@ -1,6 +1,6 @@
 ### Hi there!👋 I'm Tanumoy 
 
-![](https://komarev.com/ghpvc/?username=Tanumoy25
+![Visitor Count](https://profile-counter.glitch.me/{Tanumoy25}/count.svg)
 
 I am a Big Data Engineer, Certified SnowPro Core and Cloudera Spark Developer,
 and a Content Writer
